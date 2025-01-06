@@ -1,3 +1,3 @@
-# SWivid.github.io/F5-TTS
+# positivewon.github.io/LT-ZS-TTS
 
-<a href="https://SWivid.github.io/F5-TTS">F5-TTS demo page</a>
+<a href="https://positivewon.github.io/F5-TTS">LT-ZS-TTS demo page</a>
